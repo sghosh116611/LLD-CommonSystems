@@ -18,6 +18,8 @@ public class SystemDesign {
         System.out.println("3. Parking Lot");
         System.out.println("4. Snake And Ladder");
         System.out.println("5. ATM");
+        System.out.println("6. Cricbuzz");
+        System.out.println("7. Splitwise");
 
     }
 }
